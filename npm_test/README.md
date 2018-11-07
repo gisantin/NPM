@@ -6,7 +6,7 @@ Boilerplate simpes para projetos em JS e SCSS
 
 -  npm (^6.4.1)
 
-### Como montar o projeto 
+###Como montar o projeto 
 
 ```bash
 npm install && npm run build
